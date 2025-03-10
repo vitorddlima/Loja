@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "descricao": "Produto 1",
+        "imagem": "../Assets/imagens/perfume01.png" ,
+        "Preco": 10.0
+    },
+    {
+        "id":2,
+        "descricao": "Produto 2",
+        "imagem": "../Assets/imagens/perfume02.webp",
+        "Preco": 20.0
+    },
+    {
+        "id":3,
+        "descricao": "Produto 3",
+        "imagem": "../Assets/imagens/perfume03.jfif",
+        "Preco": 50.0
+    }
+]
