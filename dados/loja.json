@@ -2,19 +2,37 @@
     {
         "id":1,
         "descricao": "Produto 1",
-        "imagem": "../Assets/imagens/perfume01.png" ,
-        "Preco": 10.0
+        "imagem": "../Assets/Imagens/perfume01.png",
+        "preco": 10.0
     },
     {
         "id":2,
         "descricao": "Produto 2",
-        "imagem": "../Assets/imagens/perfume02.webp",
-        "Preco": 20.0
+        "imagem": "../Assets/Imagens/perfume02.webp",
+        "preco": 20.0
     },
     {
         "id":3,
         "descricao": "Produto 3",
-        "imagem": "../Assets/imagens/perfume03.jfif",
-        "Preco": 50.0
+        "imagem":  "../Assets/Imagens/perfume03.png",
+        "preco": 50.0
+    },
+    {
+        "id":4,
+        "descricao": "Produto 4",
+        "imagem": "../Assets/Imagens/perfume04.webp",
+        "preco": 40.0
+    },
+    {
+        "id":5,
+        "descricao": "Produto 5",
+        "imagem": "../Assets/Imagens/perfume05.webp",
+        "preco": 30.0
+    },
+    {
+        "id":6,
+        "descricao": "Produto 6",
+        "imagem":  "../Assets/Imagens/perfume06.webp",
+        "preco": 100.0
     }
 ]
